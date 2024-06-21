@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/06/21 12:44:52.194,=C:\Users\julia\OneDrive\Área de Trabalho\Projetos-DELPHI\Unit1.pas</Transaction>
+    <Transaction>2024/06/21 12:58:48.448,C:\Users\julia\OneDrive\Área de Trabalho\Projetos-DELPHI\proj005-AgendaDeContatos-vcl\index.view.pas=C:\Users\julia\OneDrive\Área de Trabalho\Projetos-DELPHI\Unit1.pas</Transaction>
+    <Transaction>2024/06/21 12:58:48.448,C:\Users\julia\OneDrive\Área de Trabalho\Projetos-DELPHI\proj005-AgendaDeContatos-vcl\index.view.dfm=C:\Users\julia\OneDrive\Área de Trabalho\Projetos-DELPHI\Unit1.dfm</Transaction>
+    <Transaction>2024/06/21 12:59:50.828,C:\Users\julia\OneDrive\Área de Trabalho\Projetos-DELPHI\proj005-AgendaDeContatos-vcl\AgendaDeContatos.dproj=C:\Users\julia\OneDrive\Área de Trabalho\Projetos-DELPHI\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
